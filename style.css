@@ -76,3 +76,20 @@ p {
 .consultation-btn:hover {
     opacity: 0.8;
 }
+
+
+
+.explore-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #172a46;
+    font-size: 16px;
+    font-weight: 600;
+    border-bottom: 2px solid #172a46;
+    padding-bottom: 5px;
+    transition: 0.3s;
+}
+
+.explore-btn:hover {
+    opacity: 0.6;
+}
