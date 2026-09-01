@@ -93,3 +93,22 @@ p {
 .explore-btn:hover {
     opacity: 0.6;
 }
+
+
+
+.hero-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-placeholder {
+    width: 380px;
+    height: 480px;
+    background-color: #e8bfa8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #172a46;
+    font-size: 18px;
+}
