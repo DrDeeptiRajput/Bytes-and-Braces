@@ -6,8 +6,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #fff1e6;
-    color: #1f2a2e;
+    background-color: #f8d7c3;
+    color: #172a46;
 }
 
 header {
@@ -15,7 +15,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 28px 8%;
-    background-color: #fff1e6;
+    background-color: #f8d7c3;
 }
 
 header h2 {
@@ -31,7 +31,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: #1f2a2e;
+    color: #172a46;
     font-size: 15px;
     transition: 0.3s;
 }
