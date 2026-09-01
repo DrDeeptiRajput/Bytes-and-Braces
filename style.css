@@ -5,9 +5,10 @@
 }
 
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f8d7c3;
-    color: #172a46;
+    background-color: #F4F1EC;
+    color: #1F3154;
 }
 
 header {
@@ -111,11 +112,11 @@ p {
 .image-placeholder {
     width: 380px;
     height: 480px;
-    background-color: #e8bfa8;
+    background-color: #E3DFD8;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #172a46;
+    color: #1F3154;
     font-size: 18px;
     border-radius: 8px;
 }
