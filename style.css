@@ -63,3 +63,16 @@ p {
     max-width: 550px;
     margin-bottom: 30px;
 }
+
+
+.consultation-btn {
+    background-color: #1f2a2e;
+    color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.consultation-btn:hover {
+    opacity: 0.8;
+}
