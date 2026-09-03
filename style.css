@@ -130,3 +130,24 @@ p {
     background-color: #C96B63;
     margin-bottom: 28px;
 }
+
+
+.intro-section {
+    display: block;
+    text-align: center;
+    padding: 100px 15%;
+}
+
+.intro-section h2 {
+    color: #1F3154;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.intro-section p {
+    color: #1F3154;
+    font-size: 18px;
+    line-height: 1.7;
+    max-width: 800px;
+    margin: 0 auto 20px;
+}
