@@ -126,9 +126,7 @@ p {
 
 .hero-accent {
     width: 70px;
-    height: 8px;
+    height: 4px;
     background-color: #C96B63;
-    position: absolute;
-    top: 0;
-    left: 8%;
+    margin-bottom: 28px;
 }
