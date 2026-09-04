@@ -151,3 +151,31 @@ p {
     max-width: 800px;
     margin: 0 auto 20px;
 }
+
+
+
+.feature-strip {
+    display: flex;
+    background-color: #1F3154;
+    color: #F4F1EC;
+    padding: 45px 8%;
+    gap: 40px;
+}
+
+.feature-item {
+    flex: 1;
+    padding: 10px 20px;
+}
+
+.feature-item h3 {
+    font-size: 18px;
+    line-height: 1.4;
+    margin-bottom: 12px;
+    color: #F4F1EC;
+}
+
+.feature-item p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #E3DFD8;
+}
