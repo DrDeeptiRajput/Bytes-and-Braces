@@ -158,10 +158,12 @@ p {
     display: flex;
     background-color: #F4F1EC;
     padding: 16px 8%;
+    margin-top: -45px;
     gap: 30px;
     border-top: 1px solid #E3DFD8;
     border-bottom: 1px solid #E3DFD8;
 }
+
 
 .feature-item {
     flex: 1;
