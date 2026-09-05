@@ -158,14 +158,14 @@ p {
     display: flex;
     background-color: #F4F1EC;
     padding: 7px 20px;
-    margin: -70px auto 0;
+    margin: -55px auto 0;
     gap: 20px;
     border-radius: 12px;
     border: 1px solid #E3DFD8;
     width: 85%;
     box-sizing: border-box;
     align-items: center;
-    height: 70px;
+    height: 55px;
 }
 
 .feature-item {
