@@ -135,7 +135,7 @@ p {
 .intro-section {
     display: block;
     text-align: center;
-    padding: 75px 15% 35px;
+    padding: 75px 15% 10px;
 }
 
 .intro-section h2 {
@@ -207,3 +207,8 @@ footer p {
     font-size: 15px;
 }
 
+.footer-links > div {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
