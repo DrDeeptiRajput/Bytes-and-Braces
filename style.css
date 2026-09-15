@@ -16,7 +16,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 28px 8%;
-    background-color: #E07A68;
+    background-color: #ec471e;
 }
 
 header h2 {
@@ -128,7 +128,7 @@ p {
 .hero-accent {
     width: 70px;
     height: 4px;
-    background-color: #E07A68;
+    background-color: #ec471e;
     margin-bottom: 28px;
 }
 
@@ -179,7 +179,7 @@ p {
 
 
 footer {
-    background-color: #E07A68;
+    background-color: #ec471e;
     color: #FFFFFF;
     padding: 45px 8%;
     display: flex;
