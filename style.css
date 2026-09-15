@@ -48,6 +48,7 @@ nav a:hover {
     padding: 60px 8%;
     gap: 60px;
     position: relative;
+    flex-wrap: nowrap;
 }
 
 .main section > div {
