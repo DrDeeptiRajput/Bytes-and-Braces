@@ -41,23 +41,23 @@ nav a:hover {
     opacity: 0.6;
 }
 
-.main section {
+.main-section {
     display: flex;
     min-height: 82vh;
     align-items: center;
     padding: 60px 8%;
     gap: 60px;
     position: relative;
-    flex-wrap: nowrap;
 }
 
-.main section > div {
+.main-section > div {
     width: 50%;
 }
 
-.main section > div:first-child {
+.main-section > div:first-child {
     padding-right: 20px;
 }
+
 
 h1 {
     font-size: 68px;
