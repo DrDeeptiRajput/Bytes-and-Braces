@@ -41,7 +41,7 @@ nav a:hover {
     opacity: 0.6;
 }
 
-main section {
+.main section {
     display: flex;
     min-height: 82vh;
     align-items: center;
