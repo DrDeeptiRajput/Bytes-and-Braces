@@ -163,7 +163,7 @@ p {
     margin: -55px auto 0;
     padding: 0 20px;
     box-sizing: border-box;
-    background-color: rgba(236, 71, 30, 0.06);
+    background-color: rgba(31, 49, 84, 0.82);
     border: none;
     border-radius: 8px;
     position: relative;
@@ -175,6 +175,7 @@ p {
     text-align: center;
     font-size: 14px;
     line-height: 1.2;
+    color: #F4F1ec
 }
 
 
